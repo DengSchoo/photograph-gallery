@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animals on D&#39;s Gallery</title>
+    <link>http://localhost:1313/singrila/</link>
+    <description>Recent content in Animals on D&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>user@example.com (Shine Howe Deng)</managingEditor>
+    <webMaster>user@example.com (Shine Howe Deng)</webMaster>
+    <copyright>DengSchoo</copyright>
+    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/singrila/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
